@@ -1,5 +1,6 @@
 # PSNM
 
+List of experiments:
 | Practical No | Name of Experiment |
 |:------------:|:------------------:|
 | 1 | Find out Quadratic equation roots using C. |
