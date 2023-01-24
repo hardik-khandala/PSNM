@@ -4,5 +4,5 @@
 
 | Sr No | Name of Experiment |
 |:------------:|:------------------:|
-| 1 | Find out Quadratic equation roots using C. |
-| 2 | Implementation of Bisection Method. |
+| 00 | Find out Quadratic equation roots using C. |
+| 01 | Implementation of Bisection Method. |
