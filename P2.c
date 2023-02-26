@@ -4,10 +4,7 @@
 #include<conio.h>
 #include<math.h>
 
-float F(float x)
-{
-    return (x*x*x)-x-1;
-}
+#define F(x) (x*x*x)-x-1
 
 int main()
 {
