@@ -18,6 +18,5 @@ int main()
         x2 = x3;
     } while (fabs(fx3) > 0.01);
     printf("\napprox root is %f", x3);
-
     return 0;
 }
