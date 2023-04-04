@@ -1,4 +1,4 @@
-// Find out Quadratic equation roots using C.
+// Find out Quadratic equation roots using C
 
 #include<stdio.h>
 #include<conio.h>
