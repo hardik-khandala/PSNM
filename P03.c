@@ -46,5 +46,6 @@ int main(){ int i = 0;
         }
     } while (fabs(fc)>ESP);
     printf("\nApprox Root is: %f",c);
+           
     return 0;
 }
