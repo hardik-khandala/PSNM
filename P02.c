@@ -1,4 +1,4 @@
-// Implementation of Bisection Method.
+// Implementation of Bisection Method
 
 #include<stdio.h>
 #include<conio.h>
